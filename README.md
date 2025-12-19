@@ -9,7 +9,7 @@
 🌐[Demo Project](https://shabnamshabanpour.github.io/Responsive-navbar/)
 
 **layout in cellphone**
-![view](https://github.com/user-attachments/assets/46ddddc3-342e-412d-8c03-750c33654382)
+<img width="612" height="901" alt="Image" src="https://github.com/user-attachments/assets/06c65358-679f-4f28-8b9e-52783e0c52cb" />
 
 💻 Developed by shabnam shabanpour
 
